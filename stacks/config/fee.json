@@ -1,0 +1,21 @@
+{
+    "preCharge": {
+        "minimumCharge": "0.2 BTC",
+        "maximumCharge": "0.5 BTC",
+        "feeRate": {
+            "item1": "10%",
+            "item2": "2%"
+        }
+    },
+    "poolCharge": {
+        "poolRewardAddress": "w8EDRuowF8Yeurws8sDdSHd657oZES7Kxe",
+        "minimumVoterStackedSTX": "500",
+        "flatFeeRate": "5%",
+        "tierFeeRate": {
+            "0": "15%",
+            "100000": "10%",
+            "200000": "7.5%",
+            "300000": "6%"
+        }
+    }
+}

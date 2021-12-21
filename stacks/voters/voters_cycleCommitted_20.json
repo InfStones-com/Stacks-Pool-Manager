@@ -1,0 +1,16 @@
+[
+  {
+    "voterName": "voter_1",
+    "voterAddress": "ST398VDZ344JH5MAB5N9TMDNCV47JS9VC61RAPV5H",
+    "cycleCommitted": 102,
+    "lockingCycles": 3,
+    "stackedSTX": "5800000"
+  },
+  {
+    "voterName": "voter_2",
+    "voterAddress": "ST8GN2BJ1DRYN4HYKE6A2BZNZ71C6BC5YGP8AXV7",
+    "cycleCommitted": 102,
+    "lockingCycles": 3,
+    "stackedSTX": "5800000"
+  }
+]
