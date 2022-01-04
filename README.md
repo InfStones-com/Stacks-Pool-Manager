@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Pool Manager was a collaborative project that we started with the STX foundation. The STX foundation wanted to work alongside with InfStones team to design and launch an open-source do-it-yourself Stacking pool manager. When launched, it will make it easy for individuals or businesses to create and manage their own Stacking pools.
+This Pool Manager was a collaborative project that we started with the Stacks Foundation. The Stacks Foundation wanted to work alongside with InfStones team to design and launch an open-source do-it-yourself Stacking pool manager. When launched, it will make it easy for individuals or businesses to create and manage their own Stacking pools.
 
 The two teams designed these pools being used in a variety of ways, including by future Stacks Chapters, teams or developers raising funding, charitable efforts, and much more. The tool will work via delegation so pool managers do not need to take custody of their voters’ assets at any point.
 
